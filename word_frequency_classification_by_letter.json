@@ -1,0 +1,8319 @@
+{
+  "a": {
+    "category": "important",
+    "words": [
+      {
+        "word": "abandon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ability",
+        "frequency_class": "high"
+      },
+      {
+        "word": "able",
+        "frequency_class": "high"
+      },
+      {
+        "word": "about",
+        "frequency_class": "high"
+      },
+      {
+        "word": "above",
+        "frequency_class": "high"
+      },
+      {
+        "word": "absent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "absorb",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "abstract",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "absurd",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "abuse",
+        "frequency_class": "high"
+      },
+      {
+        "word": "access",
+        "frequency_class": "high"
+      },
+      {
+        "word": "accident",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "account",
+        "frequency_class": "high"
+      },
+      {
+        "word": "accuse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "achieve",
+        "frequency_class": "high"
+      },
+      {
+        "word": "acid",
+        "frequency_class": "low"
+      },
+      {
+        "word": "acoustic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "acquire",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "across",
+        "frequency_class": "high"
+      },
+      {
+        "word": "act",
+        "frequency_class": "high"
+      },
+      {
+        "word": "action",
+        "frequency_class": "high"
+      },
+      {
+        "word": "actor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "actress",
+        "frequency_class": "low"
+      },
+      {
+        "word": "actual",
+        "frequency_class": "high"
+      },
+      {
+        "word": "adapt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "add",
+        "frequency_class": "high"
+      },
+      {
+        "word": "addict",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "address",
+        "frequency_class": "high"
+      },
+      {
+        "word": "adjust",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "admit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "adult",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "advance",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "advice",
+        "frequency_class": "high"
+      },
+      {
+        "word": "aerobic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "affair",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "afford",
+        "frequency_class": "high"
+      },
+      {
+        "word": "afraid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "again",
+        "frequency_class": "high"
+      },
+      {
+        "word": "age",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "agent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "agree",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ahead",
+        "frequency_class": "high"
+      },
+      {
+        "word": "aim",
+        "frequency_class": "high"
+      },
+      {
+        "word": "air",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "airport",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "aisle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "alarm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "album",
+        "frequency_class": "low"
+      },
+      {
+        "word": "alcohol",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "alert",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "alien",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "all",
+        "frequency_class": "high"
+      },
+      {
+        "word": "alley",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "allow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "almost",
+        "frequency_class": "high"
+      },
+      {
+        "word": "alone",
+        "frequency_class": "high"
+      },
+      {
+        "word": "alpha",
+        "frequency_class": "high"
+      },
+      {
+        "word": "already",
+        "frequency_class": "high"
+      },
+      {
+        "word": "also",
+        "frequency_class": "high"
+      },
+      {
+        "word": "alter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "always",
+        "frequency_class": "high"
+      },
+      {
+        "word": "amateur",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "amazing",
+        "frequency_class": "high"
+      },
+      {
+        "word": "among",
+        "frequency_class": "high"
+      },
+      {
+        "word": "amount",
+        "frequency_class": "high"
+      },
+      {
+        "word": "amused",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "analyst",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "anchor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ancient",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "anger",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "angle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "angry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "animal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ankle",
+        "frequency_class": "low"
+      },
+      {
+        "word": "announce",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "annual",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "another",
+        "frequency_class": "high"
+      },
+      {
+        "word": "answer",
+        "frequency_class": "high"
+      },
+      {
+        "word": "antenna",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "antique",
+        "frequency_class": "low"
+      },
+      {
+        "word": "anxiety",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "any",
+        "frequency_class": "high"
+      },
+      {
+        "word": "apart",
+        "frequency_class": "high"
+      },
+      {
+        "word": "apology",
+        "frequency_class": "low"
+      },
+      {
+        "word": "appear",
+        "frequency_class": "high"
+      },
+      {
+        "word": "apple",
+        "frequency_class": "high"
+      },
+      {
+        "word": "approve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "april",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "arch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "arctic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "area",
+        "frequency_class": "high"
+      },
+      {
+        "word": "arena",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "argue",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "arm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "armed",
+        "frequency_class": "low"
+      },
+      {
+        "word": "armor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "army",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "around",
+        "frequency_class": "high"
+      },
+      {
+        "word": "arrange",
+        "frequency_class": "low"
+      },
+      {
+        "word": "arrest",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "arrive",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "arrow",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "art",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "artefact",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "artist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "artwork",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ask",
+        "frequency_class": "high"
+      },
+      {
+        "word": "aspect",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "assault",
+        "frequency_class": "low"
+      },
+      {
+        "word": "asset",
+        "frequency_class": "high"
+      },
+      {
+        "word": "assist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "assume",
+        "frequency_class": "high"
+      },
+      {
+        "word": "asthma",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "athlete",
+        "frequency_class": "low"
+      },
+      {
+        "word": "atom",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "attack",
+        "frequency_class": "high"
+      },
+      {
+        "word": "attend",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "attitude",
+        "frequency_class": "low"
+      },
+      {
+        "word": "attract",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "auction",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "audit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "august",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "aunt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "author",
+        "frequency_class": "high"
+      },
+      {
+        "word": "auto",
+        "frequency_class": "high"
+      },
+      {
+        "word": "autumn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "average",
+        "frequency_class": "high"
+      },
+      {
+        "word": "avocado",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "avoid",
+        "frequency_class": "high"
+      },
+      {
+        "word": "awake",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "aware",
+        "frequency_class": "high"
+      },
+      {
+        "word": "away",
+        "frequency_class": "high"
+      },
+      {
+        "word": "awesome",
+        "frequency_class": "high"
+      },
+      {
+        "word": "awful",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "awkward",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "axis",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "b": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "baby",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bachelor",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bacon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "badge",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bag",
+        "frequency_class": "high"
+      },
+      {
+        "word": "balance",
+        "frequency_class": "high"
+      },
+      {
+        "word": "balcony",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ball",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bamboo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "banana",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "banner",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "barely",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bargain",
+        "frequency_class": "low"
+      },
+      {
+        "word": "barrel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "base",
+        "frequency_class": "high"
+      },
+      {
+        "word": "basic",
+        "frequency_class": "high"
+      },
+      {
+        "word": "basket",
+        "frequency_class": "high"
+      },
+      {
+        "word": "battle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "beach",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bean",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "beauty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "because",
+        "frequency_class": "high"
+      },
+      {
+        "word": "become",
+        "frequency_class": "high"
+      },
+      {
+        "word": "beef",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "before",
+        "frequency_class": "high"
+      },
+      {
+        "word": "begin",
+        "frequency_class": "high"
+      },
+      {
+        "word": "behave",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "behind",
+        "frequency_class": "high"
+      },
+      {
+        "word": "believe",
+        "frequency_class": "high"
+      },
+      {
+        "word": "below",
+        "frequency_class": "high"
+      },
+      {
+        "word": "belt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bench",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "benefit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "best",
+        "frequency_class": "high"
+      },
+      {
+        "word": "betray",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "better",
+        "frequency_class": "high"
+      },
+      {
+        "word": "between",
+        "frequency_class": "high"
+      },
+      {
+        "word": "beyond",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bicycle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bike",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bind",
+        "frequency_class": "low"
+      },
+      {
+        "word": "biology",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bird",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "birth",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bitter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "black",
+        "frequency_class": "high"
+      },
+      {
+        "word": "blade",
+        "frequency_class": "low"
+      },
+      {
+        "word": "blame",
+        "frequency_class": "high"
+      },
+      {
+        "word": "blanket",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "blast",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bleak",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bless",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "blind",
+        "frequency_class": "high"
+      },
+      {
+        "word": "blood",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "blossom",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "blouse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "blue",
+        "frequency_class": "high"
+      },
+      {
+        "word": "blur",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "blush",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "board",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "boat",
+        "frequency_class": "high"
+      },
+      {
+        "word": "body",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "boil",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bomb",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bone",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bonus",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "book",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "boost",
+        "frequency_class": "low"
+      },
+      {
+        "word": "border",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "boring",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "borrow",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "boss",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bottom",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bounce",
+        "frequency_class": "high"
+      },
+      {
+        "word": "box",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "boy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bracket",
+        "frequency_class": "low"
+      },
+      {
+        "word": "brain",
+        "frequency_class": "high"
+      },
+      {
+        "word": "brand",
+        "frequency_class": "high"
+      },
+      {
+        "word": "brass",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "brave",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bread",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "breeze",
+        "frequency_class": "low"
+      },
+      {
+        "word": "brick",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bridge",
+        "frequency_class": "high"
+      },
+      {
+        "word": "brief",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bright",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bring",
+        "frequency_class": "high"
+      },
+      {
+        "word": "brisk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "broccoli",
+        "frequency_class": "low"
+      },
+      {
+        "word": "broken",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bronze",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "broom",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "brother",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "brown",
+        "frequency_class": "low"
+      },
+      {
+        "word": "brush",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bubble",
+        "frequency_class": "high"
+      },
+      {
+        "word": "buddy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "budget",
+        "frequency_class": "high"
+      },
+      {
+        "word": "buffalo",
+        "frequency_class": "low"
+      },
+      {
+        "word": "build",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bulb",
+        "frequency_class": "low"
+      },
+      {
+        "word": "bulk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bullet",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bundle",
+        "frequency_class": "high"
+      },
+      {
+        "word": "bunker",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "burden",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "burger",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "burst",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "bus",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "business",
+        "frequency_class": "high"
+      },
+      {
+        "word": "busy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "butter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "buyer",
+        "frequency_class": "high"
+      },
+      {
+        "word": "buzz",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "c": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "cabbage",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cabin",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cable",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cactus",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cage",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cake",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "call",
+        "frequency_class": "high"
+      },
+      {
+        "word": "calm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "camera",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "camp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "can",
+        "frequency_class": "high"
+      },
+      {
+        "word": "canal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cancel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "candy",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cannon",
+        "frequency_class": "low"
+      },
+      {
+        "word": "canoe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "canvas",
+        "frequency_class": "low"
+      },
+      {
+        "word": "canyon",
+        "frequency_class": "low"
+      },
+      {
+        "word": "capable",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "capital",
+        "frequency_class": "high"
+      },
+      {
+        "word": "captain",
+        "frequency_class": "high"
+      },
+      {
+        "word": "car",
+        "frequency_class": "high"
+      },
+      {
+        "word": "carbon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "card",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cargo",
+        "frequency_class": "low"
+      },
+      {
+        "word": "carpet",
+        "frequency_class": "low"
+      },
+      {
+        "word": "carry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cart",
+        "frequency_class": "low"
+      },
+      {
+        "word": "case",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cash",
+        "frequency_class": "high"
+      },
+      {
+        "word": "casino",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "castle",
+        "frequency_class": "low"
+      },
+      {
+        "word": "casual",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "catalog",
+        "frequency_class": "low"
+      },
+      {
+        "word": "catch",
+        "frequency_class": "high"
+      },
+      {
+        "word": "category",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cattle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "caught",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cause",
+        "frequency_class": "high"
+      },
+      {
+        "word": "caution",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cave",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ceiling",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "celery",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cement",
+        "frequency_class": "low"
+      },
+      {
+        "word": "census",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "century",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cereal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "certain",
+        "frequency_class": "high"
+      },
+      {
+        "word": "chair",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chalk",
+        "frequency_class": "low"
+      },
+      {
+        "word": "champion",
+        "frequency_class": "low"
+      },
+      {
+        "word": "change",
+        "frequency_class": "high"
+      },
+      {
+        "word": "chaos",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chapter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "charge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chase",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chat",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cheap",
+        "frequency_class": "high"
+      },
+      {
+        "word": "check",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cheese",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chef",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cherry",
+        "frequency_class": "low"
+      },
+      {
+        "word": "chest",
+        "frequency_class": "low"
+      },
+      {
+        "word": "chicken",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chief",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "child",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chimney",
+        "frequency_class": "low"
+      },
+      {
+        "word": "choice",
+        "frequency_class": "high"
+      },
+      {
+        "word": "choose",
+        "frequency_class": "high"
+      },
+      {
+        "word": "chronic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "chuckle",
+        "frequency_class": "low"
+      },
+      {
+        "word": "chunk",
+        "frequency_class": "high"
+      },
+      {
+        "word": "churn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cigar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cinnamon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "circle",
+        "frequency_class": "high"
+      },
+      {
+        "word": "citizen",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "city",
+        "frequency_class": "high"
+      },
+      {
+        "word": "civil",
+        "frequency_class": "low"
+      },
+      {
+        "word": "claim",
+        "frequency_class": "high"
+      },
+      {
+        "word": "clap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clarify",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "claw",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clay",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clean",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clerk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clever",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "click",
+        "frequency_class": "high"
+      },
+      {
+        "word": "client",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cliff",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "climb",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clinic",
+        "frequency_class": "low"
+      },
+      {
+        "word": "clip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clock",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clog",
+        "frequency_class": "low"
+      },
+      {
+        "word": "close",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cloth",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cloud",
+        "frequency_class": "high"
+      },
+      {
+        "word": "clown",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "club",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "clump",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cluster",
+        "frequency_class": "high"
+      },
+      {
+        "word": "clutch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "coach",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "coast",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "coconut",
+        "frequency_class": "low"
+      },
+      {
+        "word": "code",
+        "frequency_class": "high"
+      },
+      {
+        "word": "coffee",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "coil",
+        "frequency_class": "low"
+      },
+      {
+        "word": "coin",
+        "frequency_class": "high"
+      },
+      {
+        "word": "collect",
+        "frequency_class": "high"
+      },
+      {
+        "word": "color",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "column",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "combine",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "come",
+        "frequency_class": "high"
+      },
+      {
+        "word": "comfort",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "comic",
+        "frequency_class": "low"
+      },
+      {
+        "word": "common",
+        "frequency_class": "high"
+      },
+      {
+        "word": "company",
+        "frequency_class": "high"
+      },
+      {
+        "word": "concert",
+        "frequency_class": "low"
+      },
+      {
+        "word": "conduct",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "confirm",
+        "frequency_class": "high"
+      },
+      {
+        "word": "congress",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "connect",
+        "frequency_class": "high"
+      },
+      {
+        "word": "consider",
+        "frequency_class": "high"
+      },
+      {
+        "word": "control",
+        "frequency_class": "high"
+      },
+      {
+        "word": "convince",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cook",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cool",
+        "frequency_class": "high"
+      },
+      {
+        "word": "copper",
+        "frequency_class": "low"
+      },
+      {
+        "word": "copy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "coral",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "core",
+        "frequency_class": "high"
+      },
+      {
+        "word": "corn",
+        "frequency_class": "low"
+      },
+      {
+        "word": "correct",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cost",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cotton",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "couch",
+        "frequency_class": "low"
+      },
+      {
+        "word": "country",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "couple",
+        "frequency_class": "high"
+      },
+      {
+        "word": "course",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cousin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cover",
+        "frequency_class": "high"
+      },
+      {
+        "word": "coyote",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crack",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cradle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "craft",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cram",
+        "frequency_class": "low"
+      },
+      {
+        "word": "crane",
+        "frequency_class": "low"
+      },
+      {
+        "word": "crash",
+        "frequency_class": "high"
+      },
+      {
+        "word": "crater",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crawl",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crazy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cream",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "credit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "creek",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crew",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cricket",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crime",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crisp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "critic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crop",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cross",
+        "frequency_class": "high"
+      },
+      {
+        "word": "crouch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crowd",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crucial",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cruel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cruise",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crumble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crunch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crush",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "crystal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cube",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "culture",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cup",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cupboard",
+        "frequency_class": "low"
+      },
+      {
+        "word": "curious",
+        "frequency_class": "high"
+      },
+      {
+        "word": "current",
+        "frequency_class": "high"
+      },
+      {
+        "word": "curtain",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "curve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "cushion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "custom",
+        "frequency_class": "high"
+      },
+      {
+        "word": "cute",
+        "frequency_class": "low"
+      },
+      {
+        "word": "cycle",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "d": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "dad",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "damage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "damp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dance",
+        "frequency_class": "low"
+      },
+      {
+        "word": "danger",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "daring",
+        "frequency_class": "low"
+      },
+      {
+        "word": "dash",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "daughter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dawn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "day",
+        "frequency_class": "high"
+      },
+      {
+        "word": "deal",
+        "frequency_class": "high"
+      },
+      {
+        "word": "debate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "debris",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "decade",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "december",
+        "frequency_class": "high"
+      },
+      {
+        "word": "decide",
+        "frequency_class": "high"
+      },
+      {
+        "word": "decline",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "decorate",
+        "frequency_class": "low"
+      },
+      {
+        "word": "decrease",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "deer",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "defense",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "define",
+        "frequency_class": "high"
+      },
+      {
+        "word": "defy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "degree",
+        "frequency_class": "high"
+      },
+      {
+        "word": "delay",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "deliver",
+        "frequency_class": "high"
+      },
+      {
+        "word": "demand",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "demise",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "denial",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dentist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "deny",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "depart",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "depend",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "deposit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "depth",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "deputy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "derive",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "describe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "desert",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "design",
+        "frequency_class": "high"
+      },
+      {
+        "word": "desk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "despair",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "destroy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "detail",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "detect",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "develop",
+        "frequency_class": "high"
+      },
+      {
+        "word": "device",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "devote",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "diagram",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dial",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "diamond",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "diary",
+        "frequency_class": "low"
+      },
+      {
+        "word": "dice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "diesel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "diet",
+        "frequency_class": "low"
+      },
+      {
+        "word": "differ",
+        "frequency_class": "low"
+      },
+      {
+        "word": "digital",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dignity",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dilemma",
+        "frequency_class": "low"
+      },
+      {
+        "word": "dinner",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dinosaur",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "direct",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dirt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "disagree",
+        "frequency_class": "low"
+      },
+      {
+        "word": "discover",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "disease",
+        "frequency_class": "low"
+      },
+      {
+        "word": "dish",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dismiss",
+        "frequency_class": "low"
+      },
+      {
+        "word": "disorder",
+        "frequency_class": "low"
+      },
+      {
+        "word": "display",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "distance",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "divert",
+        "frequency_class": "low"
+      },
+      {
+        "word": "divide",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "divorce",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dizzy",
+        "frequency_class": "low"
+      },
+      {
+        "word": "doctor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "document",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dog",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "doll",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dolphin",
+        "frequency_class": "low"
+      },
+      {
+        "word": "domain",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "donate",
+        "frequency_class": "high"
+      },
+      {
+        "word": "donkey",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "donor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "door",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dose",
+        "frequency_class": "low"
+      },
+      {
+        "word": "double",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dove",
+        "frequency_class": "low"
+      },
+      {
+        "word": "draft",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dragon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "drama",
+        "frequency_class": "low"
+      },
+      {
+        "word": "drastic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "draw",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dream",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dress",
+        "frequency_class": "low"
+      },
+      {
+        "word": "drift",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "drill",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "drink",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "drip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "drive",
+        "frequency_class": "high"
+      },
+      {
+        "word": "drop",
+        "frequency_class": "high"
+      },
+      {
+        "word": "drum",
+        "frequency_class": "low"
+      },
+      {
+        "word": "dry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "duck",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dumb",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dune",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "during",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dust",
+        "frequency_class": "high"
+      },
+      {
+        "word": "dutch",
+        "frequency_class": "low"
+      },
+      {
+        "word": "duty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dwarf",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "dynamic",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "e": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "eager",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "eagle",
+        "frequency_class": "low"
+      },
+      {
+        "word": "early",
+        "frequency_class": "high"
+      },
+      {
+        "word": "earn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "earth",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "easily",
+        "frequency_class": "high"
+      },
+      {
+        "word": "east",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "easy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "echo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ecology",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "economy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "edge",
+        "frequency_class": "high"
+      },
+      {
+        "word": "edit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "educate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "effort",
+        "frequency_class": "high"
+      },
+      {
+        "word": "egg",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "eight",
+        "frequency_class": "high"
+      },
+      {
+        "word": "either",
+        "frequency_class": "high"
+      },
+      {
+        "word": "elbow",
+        "frequency_class": "low"
+      },
+      {
+        "word": "elder",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "electric",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "elegant",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "element",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "elephant",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "elevator",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "elite",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "else",
+        "frequency_class": "high"
+      },
+      {
+        "word": "embark",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "embody",
+        "frequency_class": "low"
+      },
+      {
+        "word": "embrace",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "emerge",
+        "frequency_class": "low"
+      },
+      {
+        "word": "emotion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "employ",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "empower",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "empty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "enable",
+        "frequency_class": "high"
+      },
+      {
+        "word": "enact",
+        "frequency_class": "low"
+      },
+      {
+        "word": "end",
+        "frequency_class": "high"
+      },
+      {
+        "word": "endless",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "endorse",
+        "frequency_class": "low"
+      },
+      {
+        "word": "enemy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "energy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "enforce",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "engage",
+        "frequency_class": "high"
+      },
+      {
+        "word": "engine",
+        "frequency_class": "low"
+      },
+      {
+        "word": "enhance",
+        "frequency_class": "high"
+      },
+      {
+        "word": "enjoy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "enlist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "enough",
+        "frequency_class": "high"
+      },
+      {
+        "word": "enrich",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "enroll",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ensure",
+        "frequency_class": "high"
+      },
+      {
+        "word": "enter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "entire",
+        "frequency_class": "high"
+      },
+      {
+        "word": "entry",
+        "frequency_class": "high"
+      },
+      {
+        "word": "envelope",
+        "frequency_class": "high"
+      },
+      {
+        "word": "episode",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "equal",
+        "frequency_class": "high"
+      },
+      {
+        "word": "equip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "era",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "erase",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "erode",
+        "frequency_class": "low"
+      },
+      {
+        "word": "erosion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "error",
+        "frequency_class": "high"
+      },
+      {
+        "word": "erupt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "escape",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "essay",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "essence",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "estate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "eternal",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ethics",
+        "frequency_class": "low"
+      },
+      {
+        "word": "evidence",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "evil",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "evoke",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "evolve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "exact",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "example",
+        "frequency_class": "high"
+      },
+      {
+        "word": "excess",
+        "frequency_class": "low"
+      },
+      {
+        "word": "exchange",
+        "frequency_class": "high"
+      },
+      {
+        "word": "excite",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "exclude",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "excuse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "execute",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "exercise",
+        "frequency_class": "high"
+      },
+      {
+        "word": "exhaust",
+        "frequency_class": "low"
+      },
+      {
+        "word": "exhibit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "exile",
+        "frequency_class": "low"
+      },
+      {
+        "word": "exist",
+        "frequency_class": "high"
+      },
+      {
+        "word": "exit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "exotic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "expand",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "expect",
+        "frequency_class": "high"
+      },
+      {
+        "word": "expire",
+        "frequency_class": "low"
+      },
+      {
+        "word": "explain",
+        "frequency_class": "high"
+      },
+      {
+        "word": "expose",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "express",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "extend",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "extra",
+        "frequency_class": "high"
+      },
+      {
+        "word": "eye",
+        "frequency_class": "high"
+      },
+      {
+        "word": "eyebrow",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "f": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "fabric",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "face",
+        "frequency_class": "high"
+      },
+      {
+        "word": "faculty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fade",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "faint",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "faith",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fall",
+        "frequency_class": "high"
+      },
+      {
+        "word": "false",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fame",
+        "frequency_class": "low"
+      },
+      {
+        "word": "family",
+        "frequency_class": "high"
+      },
+      {
+        "word": "famous",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fan",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fancy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fantasy",
+        "frequency_class": "low"
+      },
+      {
+        "word": "farm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fashion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fatal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "father",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fatigue",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fault",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "favorite",
+        "frequency_class": "high"
+      },
+      {
+        "word": "feature",
+        "frequency_class": "high"
+      },
+      {
+        "word": "february",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "federal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fee",
+        "frequency_class": "high"
+      },
+      {
+        "word": "feed",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "feel",
+        "frequency_class": "high"
+      },
+      {
+        "word": "female",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fence",
+        "frequency_class": "low"
+      },
+      {
+        "word": "festival",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fetch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fever",
+        "frequency_class": "low"
+      },
+      {
+        "word": "few",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fiber",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fiction",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "field",
+        "frequency_class": "high"
+      },
+      {
+        "word": "figure",
+        "frequency_class": "high"
+      },
+      {
+        "word": "file",
+        "frequency_class": "high"
+      },
+      {
+        "word": "film",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "filter",
+        "frequency_class": "high"
+      },
+      {
+        "word": "final",
+        "frequency_class": "high"
+      },
+      {
+        "word": "find",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fine",
+        "frequency_class": "high"
+      },
+      {
+        "word": "finger",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "finish",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fire",
+        "frequency_class": "high"
+      },
+      {
+        "word": "firm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "first",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fiscal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fish",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fit",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fitness",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fix",
+        "frequency_class": "high"
+      },
+      {
+        "word": "flag",
+        "frequency_class": "high"
+      },
+      {
+        "word": "flame",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flash",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flavor",
+        "frequency_class": "low"
+      },
+      {
+        "word": "flee",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flight",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "float",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flock",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "floor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flower",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fluid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "flush",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fly",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "foam",
+        "frequency_class": "low"
+      },
+      {
+        "word": "focus",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fog",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "foil",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fold",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "follow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "food",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "foot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "force",
+        "frequency_class": "high"
+      },
+      {
+        "word": "forest",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "forget",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fork",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fortune",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "forum",
+        "frequency_class": "high"
+      },
+      {
+        "word": "forward",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fossil",
+        "frequency_class": "low"
+      },
+      {
+        "word": "foster",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "found",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fox",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fragile",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "frame",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "frequent",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fresh",
+        "frequency_class": "high"
+      },
+      {
+        "word": "friend",
+        "frequency_class": "high"
+      },
+      {
+        "word": "fringe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "frog",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "front",
+        "frequency_class": "high"
+      },
+      {
+        "word": "frost",
+        "frequency_class": "low"
+      },
+      {
+        "word": "frown",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "frozen",
+        "frequency_class": "low"
+      },
+      {
+        "word": "fruit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fuel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fun",
+        "frequency_class": "high"
+      },
+      {
+        "word": "funny",
+        "frequency_class": "high"
+      },
+      {
+        "word": "furnace",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "fury",
+        "frequency_class": "low"
+      },
+      {
+        "word": "future",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "g": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "gadget",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gain",
+        "frequency_class": "high"
+      },
+      {
+        "word": "galaxy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gallery",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "game",
+        "frequency_class": "high"
+      },
+      {
+        "word": "gap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "garage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "garbage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "garden",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "garlic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "garment",
+        "frequency_class": "low"
+      },
+      {
+        "word": "gas",
+        "frequency_class": "high"
+      },
+      {
+        "word": "gasp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gather",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gauge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gaze",
+        "frequency_class": "low"
+      },
+      {
+        "word": "general",
+        "frequency_class": "high"
+      },
+      {
+        "word": "genius",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "genre",
+        "frequency_class": "low"
+      },
+      {
+        "word": "gentle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "genuine",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gesture",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ghost",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "giant",
+        "frequency_class": "high"
+      },
+      {
+        "word": "gift",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "giggle",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ginger",
+        "frequency_class": "low"
+      },
+      {
+        "word": "giraffe",
+        "frequency_class": "low"
+      },
+      {
+        "word": "girl",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "give",
+        "frequency_class": "high"
+      },
+      {
+        "word": "glad",
+        "frequency_class": "high"
+      },
+      {
+        "word": "glance",
+        "frequency_class": "high"
+      },
+      {
+        "word": "glare",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "glass",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "glide",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "glimpse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "globe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gloom",
+        "frequency_class": "low"
+      },
+      {
+        "word": "glory",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "glove",
+        "frequency_class": "low"
+      },
+      {
+        "word": "glow",
+        "frequency_class": "low"
+      },
+      {
+        "word": "glue",
+        "frequency_class": "low"
+      },
+      {
+        "word": "goat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "goddess",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gold",
+        "frequency_class": "high"
+      },
+      {
+        "word": "good",
+        "frequency_class": "high"
+      },
+      {
+        "word": "goose",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gorilla",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gospel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gossip",
+        "frequency_class": "low"
+      },
+      {
+        "word": "govern",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gown",
+        "frequency_class": "low"
+      },
+      {
+        "word": "grab",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "grace",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "grain",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "grant",
+        "frequency_class": "high"
+      },
+      {
+        "word": "grape",
+        "frequency_class": "low"
+      },
+      {
+        "word": "grass",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gravity",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "great",
+        "frequency_class": "high"
+      },
+      {
+        "word": "green",
+        "frequency_class": "high"
+      },
+      {
+        "word": "grid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "grief",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "grit",
+        "frequency_class": "low"
+      },
+      {
+        "word": "grocery",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "group",
+        "frequency_class": "high"
+      },
+      {
+        "word": "grow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "grunt",
+        "frequency_class": "low"
+      },
+      {
+        "word": "guard",
+        "frequency_class": "high"
+      },
+      {
+        "word": "guess",
+        "frequency_class": "high"
+      },
+      {
+        "word": "guide",
+        "frequency_class": "high"
+      },
+      {
+        "word": "guilt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "guitar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gun",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "gym",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "h": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "habit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hair",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "half",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hammer",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hamster",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hand",
+        "frequency_class": "high"
+      },
+      {
+        "word": "happy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "harbor",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hard",
+        "frequency_class": "high"
+      },
+      {
+        "word": "harsh",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "harvest",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "have",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hawk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hazard",
+        "frequency_class": "low"
+      },
+      {
+        "word": "head",
+        "frequency_class": "high"
+      },
+      {
+        "word": "health",
+        "frequency_class": "high"
+      },
+      {
+        "word": "heart",
+        "frequency_class": "high"
+      },
+      {
+        "word": "heavy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hedgehog",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "height",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hello",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "helmet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "help",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hen",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hero",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hidden",
+        "frequency_class": "high"
+      },
+      {
+        "word": "high",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hill",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hint",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hire",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "history",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hobby",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hockey",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hold",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hole",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "holiday",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hollow",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "home",
+        "frequency_class": "high"
+      },
+      {
+        "word": "honey",
+        "frequency_class": "low"
+      },
+      {
+        "word": "hood",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hope",
+        "frequency_class": "high"
+      },
+      {
+        "word": "horn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "horror",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "horse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hospital",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "host",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hotel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hour",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hover",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hub",
+        "frequency_class": "low"
+      },
+      {
+        "word": "huge",
+        "frequency_class": "high"
+      },
+      {
+        "word": "human",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "humble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "humor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hundred",
+        "frequency_class": "high"
+      },
+      {
+        "word": "hungry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hunt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hurdle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hurry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hurt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "husband",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "hybrid",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "i": {
+    "category": "waste",
+    "words": [
+      {
+        "word": "ice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "icon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "idea",
+        "frequency_class": "high"
+      },
+      {
+        "word": "identify",
+        "frequency_class": "high"
+      },
+      {
+        "word": "idle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ignore",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ill",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "illegal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "illness",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "image",
+        "frequency_class": "high"
+      },
+      {
+        "word": "imitate",
+        "frequency_class": "low"
+      },
+      {
+        "word": "immense",
+        "frequency_class": "high"
+      },
+      {
+        "word": "immune",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "impact",
+        "frequency_class": "high"
+      },
+      {
+        "word": "impose",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "improve",
+        "frequency_class": "high"
+      },
+      {
+        "word": "impulse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "inch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "include",
+        "frequency_class": "high"
+      },
+      {
+        "word": "income",
+        "frequency_class": "high"
+      },
+      {
+        "word": "increase",
+        "frequency_class": "high"
+      },
+      {
+        "word": "index",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "indicate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "indoor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "industry",
+        "frequency_class": "high"
+      },
+      {
+        "word": "infant",
+        "frequency_class": "low"
+      },
+      {
+        "word": "inflict",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "inform",
+        "frequency_class": "low"
+      },
+      {
+        "word": "inhale",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "inherit",
+        "frequency_class": "low"
+      },
+      {
+        "word": "initial",
+        "frequency_class": "high"
+      },
+      {
+        "word": "inject",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "injury",
+        "frequency_class": "low"
+      },
+      {
+        "word": "inmate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "inner",
+        "frequency_class": "high"
+      },
+      {
+        "word": "innocent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "input",
+        "frequency_class": "high"
+      },
+      {
+        "word": "inquiry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "insane",
+        "frequency_class": "high"
+      },
+      {
+        "word": "insect",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "inside",
+        "frequency_class": "high"
+      },
+      {
+        "word": "inspire",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "install",
+        "frequency_class": "high"
+      },
+      {
+        "word": "intact",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "interest",
+        "frequency_class": "high"
+      },
+      {
+        "word": "into",
+        "frequency_class": "high"
+      },
+      {
+        "word": "invest",
+        "frequency_class": "high"
+      },
+      {
+        "word": "invite",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "involve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "iron",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "island",
+        "frequency_class": "low"
+      },
+      {
+        "word": "isolate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "issue",
+        "frequency_class": "high"
+      },
+      {
+        "word": "item",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ivory",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "j": {
+    "category": "waste",
+    "words": [
+      {
+        "word": "jacket",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "jaguar",
+        "frequency_class": "low"
+      },
+      {
+        "word": "jar",
+        "frequency_class": "low"
+      },
+      {
+        "word": "jazz",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "jealous",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "jeans",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "jelly",
+        "frequency_class": "low"
+      },
+      {
+        "word": "jewel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "job",
+        "frequency_class": "high"
+      },
+      {
+        "word": "join",
+        "frequency_class": "high"
+      },
+      {
+        "word": "joke",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "journey",
+        "frequency_class": "high"
+      },
+      {
+        "word": "joy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "judge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "juice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "jump",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "jungle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "junior",
+        "frequency_class": "high"
+      },
+      {
+        "word": "junk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "just",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "k": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "kangaroo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "keen",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "keep",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ketchup",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "key",
+        "frequency_class": "high"
+      },
+      {
+        "word": "kick",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "kid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "kidney",
+        "frequency_class": "low"
+      },
+      {
+        "word": "kind",
+        "frequency_class": "high"
+      },
+      {
+        "word": "kingdom",
+        "frequency_class": "low"
+      },
+      {
+        "word": "kiss",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "kit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "kitchen",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "kite",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "kitten",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "kiwi",
+        "frequency_class": "low"
+      },
+      {
+        "word": "knee",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "knife",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "knock",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "know",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "l": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "lab",
+        "frequency_class": "high"
+      },
+      {
+        "word": "label",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "labor",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ladder",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lady",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lake",
+        "frequency_class": "low"
+      },
+      {
+        "word": "lamp",
+        "frequency_class": "low"
+      },
+      {
+        "word": "language",
+        "frequency_class": "high"
+      },
+      {
+        "word": "laptop",
+        "frequency_class": "high"
+      },
+      {
+        "word": "large",
+        "frequency_class": "high"
+      },
+      {
+        "word": "later",
+        "frequency_class": "high"
+      },
+      {
+        "word": "latin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "laugh",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "laundry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lava",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "law",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lawn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lawsuit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "layer",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lazy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "leader",
+        "frequency_class": "high"
+      },
+      {
+        "word": "leaf",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "learn",
+        "frequency_class": "high"
+      },
+      {
+        "word": "leave",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lecture",
+        "frequency_class": "low"
+      },
+      {
+        "word": "left",
+        "frequency_class": "high"
+      },
+      {
+        "word": "leg",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "legal",
+        "frequency_class": "high"
+      },
+      {
+        "word": "legend",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "leisure",
+        "frequency_class": "low"
+      },
+      {
+        "word": "lemon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lend",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "length",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lens",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "leopard",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lesson",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "letter",
+        "frequency_class": "high"
+      },
+      {
+        "word": "level",
+        "frequency_class": "high"
+      },
+      {
+        "word": "liar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "liberty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "library",
+        "frequency_class": "low"
+      },
+      {
+        "word": "license",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "life",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lift",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "light",
+        "frequency_class": "high"
+      },
+      {
+        "word": "like",
+        "frequency_class": "high"
+      },
+      {
+        "word": "limb",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "limit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "link",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "liquid",
+        "frequency_class": "high"
+      },
+      {
+        "word": "list",
+        "frequency_class": "high"
+      },
+      {
+        "word": "little",
+        "frequency_class": "high"
+      },
+      {
+        "word": "live",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lizard",
+        "frequency_class": "low"
+      },
+      {
+        "word": "load",
+        "frequency_class": "high"
+      },
+      {
+        "word": "loan",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lobster",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "local",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lock",
+        "frequency_class": "high"
+      },
+      {
+        "word": "logic",
+        "frequency_class": "high"
+      },
+      {
+        "word": "lonely",
+        "frequency_class": "low"
+      },
+      {
+        "word": "long",
+        "frequency_class": "high"
+      },
+      {
+        "word": "loop",
+        "frequency_class": "low"
+      },
+      {
+        "word": "lottery",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "loud",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lounge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "love",
+        "frequency_class": "high"
+      },
+      {
+        "word": "loyal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lucky",
+        "frequency_class": "high"
+      },
+      {
+        "word": "luggage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "lumber",
+        "frequency_class": "low"
+      },
+      {
+        "word": "lunar",
+        "frequency_class": "low"
+      },
+      {
+        "word": "lunch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "luxury",
+        "frequency_class": "low"
+      },
+      {
+        "word": "lyrics",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "m": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "machine",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mad",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "magic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "magnet",
+        "frequency_class": "high"
+      },
+      {
+        "word": "maid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mail",
+        "frequency_class": "low"
+      },
+      {
+        "word": "main",
+        "frequency_class": "high"
+      },
+      {
+        "word": "major",
+        "frequency_class": "high"
+      },
+      {
+        "word": "make",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mammal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "man",
+        "frequency_class": "high"
+      },
+      {
+        "word": "manage",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mandate",
+        "frequency_class": "low"
+      },
+      {
+        "word": "mango",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mansion",
+        "frequency_class": "low"
+      },
+      {
+        "word": "manual",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "maple",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "marble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "march",
+        "frequency_class": "high"
+      },
+      {
+        "word": "margin",
+        "frequency_class": "low"
+      },
+      {
+        "word": "marine",
+        "frequency_class": "low"
+      },
+      {
+        "word": "market",
+        "frequency_class": "high"
+      },
+      {
+        "word": "marriage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mask",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mass",
+        "frequency_class": "high"
+      },
+      {
+        "word": "master",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "match",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "material",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "math",
+        "frequency_class": "high"
+      },
+      {
+        "word": "matrix",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "matter",
+        "frequency_class": "high"
+      },
+      {
+        "word": "maximum",
+        "frequency_class": "high"
+      },
+      {
+        "word": "maze",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "meadow",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mean",
+        "frequency_class": "high"
+      },
+      {
+        "word": "measure",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "meat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mechanic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "medal",
+        "frequency_class": "low"
+      },
+      {
+        "word": "media",
+        "frequency_class": "high"
+      },
+      {
+        "word": "melody",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "melt",
+        "frequency_class": "low"
+      },
+      {
+        "word": "member",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "memory",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mention",
+        "frequency_class": "high"
+      },
+      {
+        "word": "menu",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mercy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "merge",
+        "frequency_class": "low"
+      },
+      {
+        "word": "merit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "merry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mesh",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "message",
+        "frequency_class": "high"
+      },
+      {
+        "word": "metal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "method",
+        "frequency_class": "high"
+      },
+      {
+        "word": "middle",
+        "frequency_class": "high"
+      },
+      {
+        "word": "midnight",
+        "frequency_class": "low"
+      },
+      {
+        "word": "milk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "million",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mimic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mind",
+        "frequency_class": "high"
+      },
+      {
+        "word": "minimum",
+        "frequency_class": "high"
+      },
+      {
+        "word": "minor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "minute",
+        "frequency_class": "high"
+      },
+      {
+        "word": "miracle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mirror",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "misery",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "miss",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mistake",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mix",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mixed",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mixture",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mobile",
+        "frequency_class": "high"
+      },
+      {
+        "word": "model",
+        "frequency_class": "high"
+      },
+      {
+        "word": "modify",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mom",
+        "frequency_class": "high"
+      },
+      {
+        "word": "moment",
+        "frequency_class": "high"
+      },
+      {
+        "word": "monitor",
+        "frequency_class": "high"
+      },
+      {
+        "word": "monkey",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "monster",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "month",
+        "frequency_class": "high"
+      },
+      {
+        "word": "moon",
+        "frequency_class": "high"
+      },
+      {
+        "word": "moral",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "more",
+        "frequency_class": "high"
+      },
+      {
+        "word": "morning",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mosquito",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mother",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "motion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "motor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mountain",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mouse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "move",
+        "frequency_class": "high"
+      },
+      {
+        "word": "movie",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "much",
+        "frequency_class": "high"
+      },
+      {
+        "word": "muffin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mule",
+        "frequency_class": "low"
+      },
+      {
+        "word": "multiply",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "muscle",
+        "frequency_class": "low"
+      },
+      {
+        "word": "museum",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "mushroom",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "music",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "must",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mutual",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "myself",
+        "frequency_class": "high"
+      },
+      {
+        "word": "mystery",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "myth",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "n": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "naive",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "name",
+        "frequency_class": "high"
+      },
+      {
+        "word": "napkin",
+        "frequency_class": "low"
+      },
+      {
+        "word": "narrow",
+        "frequency_class": "low"
+      },
+      {
+        "word": "nasty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "nation",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "nature",
+        "frequency_class": "high"
+      },
+      {
+        "word": "near",
+        "frequency_class": "high"
+      },
+      {
+        "word": "neck",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "need",
+        "frequency_class": "high"
+      },
+      {
+        "word": "negative",
+        "frequency_class": "high"
+      },
+      {
+        "word": "neglect",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "neither",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "nephew",
+        "frequency_class": "low"
+      },
+      {
+        "word": "nerve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "nest",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "net",
+        "frequency_class": "high"
+      },
+      {
+        "word": "network",
+        "frequency_class": "high"
+      },
+      {
+        "word": "neutral",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "never",
+        "frequency_class": "high"
+      },
+      {
+        "word": "news",
+        "frequency_class": "high"
+      },
+      {
+        "word": "next",
+        "frequency_class": "high"
+      },
+      {
+        "word": "nice",
+        "frequency_class": "high"
+      },
+      {
+        "word": "night",
+        "frequency_class": "high"
+      },
+      {
+        "word": "noble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "noise",
+        "frequency_class": "high"
+      },
+      {
+        "word": "nominee",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "noodle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "normal",
+        "frequency_class": "high"
+      },
+      {
+        "word": "north",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "nose",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "notable",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "note",
+        "frequency_class": "high"
+      },
+      {
+        "word": "nothing",
+        "frequency_class": "high"
+      },
+      {
+        "word": "notice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "novel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "now",
+        "frequency_class": "high"
+      },
+      {
+        "word": "nuclear",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "number",
+        "frequency_class": "high"
+      },
+      {
+        "word": "nurse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "nut",
+        "frequency_class": "low"
+      }
+    ]
+  },
+  "o": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "oak",
+        "frequency_class": "low"
+      },
+      {
+        "word": "obey",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "object",
+        "frequency_class": "high"
+      },
+      {
+        "word": "oblige",
+        "frequency_class": "low"
+      },
+      {
+        "word": "obscure",
+        "frequency_class": "low"
+      },
+      {
+        "word": "observe",
+        "frequency_class": "high"
+      },
+      {
+        "word": "obtain",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "obvious",
+        "frequency_class": "high"
+      },
+      {
+        "word": "occur",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ocean",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "october",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "odor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "off",
+        "frequency_class": "high"
+      },
+      {
+        "word": "offer",
+        "frequency_class": "high"
+      },
+      {
+        "word": "office",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "often",
+        "frequency_class": "high"
+      },
+      {
+        "word": "oil",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "okay",
+        "frequency_class": "high"
+      },
+      {
+        "word": "old",
+        "frequency_class": "high"
+      },
+      {
+        "word": "olive",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "olympic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "omit",
+        "frequency_class": "low"
+      },
+      {
+        "word": "once",
+        "frequency_class": "high"
+      },
+      {
+        "word": "one",
+        "frequency_class": "high"
+      },
+      {
+        "word": "onion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "online",
+        "frequency_class": "high"
+      },
+      {
+        "word": "only",
+        "frequency_class": "high"
+      },
+      {
+        "word": "open",
+        "frequency_class": "high"
+      },
+      {
+        "word": "opera",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "opinion",
+        "frequency_class": "high"
+      },
+      {
+        "word": "oppose",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "option",
+        "frequency_class": "high"
+      },
+      {
+        "word": "orange",
+        "frequency_class": "high"
+      },
+      {
+        "word": "orbit",
+        "frequency_class": "low"
+      },
+      {
+        "word": "orchard",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "order",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ordinary",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "organ",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "orient",
+        "frequency_class": "low"
+      },
+      {
+        "word": "original",
+        "frequency_class": "high"
+      },
+      {
+        "word": "orphan",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ostrich",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "other",
+        "frequency_class": "high"
+      },
+      {
+        "word": "outdoor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "outer",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "output",
+        "frequency_class": "high"
+      },
+      {
+        "word": "outside",
+        "frequency_class": "high"
+      },
+      {
+        "word": "oval",
+        "frequency_class": "low"
+      },
+      {
+        "word": "oven",
+        "frequency_class": "low"
+      },
+      {
+        "word": "over",
+        "frequency_class": "high"
+      },
+      {
+        "word": "own",
+        "frequency_class": "high"
+      },
+      {
+        "word": "owner",
+        "frequency_class": "high"
+      },
+      {
+        "word": "oxygen",
+        "frequency_class": "low"
+      },
+      {
+        "word": "oyster",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ozone",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "p": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "pact",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "paddle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "page",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pair",
+        "frequency_class": "high"
+      },
+      {
+        "word": "palace",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "palm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "panda",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "panel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "panic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "panther",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "paper",
+        "frequency_class": "high"
+      },
+      {
+        "word": "parade",
+        "frequency_class": "low"
+      },
+      {
+        "word": "parent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "park",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "parrot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "party",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pass",
+        "frequency_class": "high"
+      },
+      {
+        "word": "patch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "path",
+        "frequency_class": "high"
+      },
+      {
+        "word": "patient",
+        "frequency_class": "high"
+      },
+      {
+        "word": "patrol",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pattern",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pause",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pave",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "payment",
+        "frequency_class": "high"
+      },
+      {
+        "word": "peace",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "peanut",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pear",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "peasant",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pelican",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pen",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "penalty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pencil",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "people",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pepper",
+        "frequency_class": "low"
+      },
+      {
+        "word": "perfect",
+        "frequency_class": "high"
+      },
+      {
+        "word": "permit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "person",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "phone",
+        "frequency_class": "high"
+      },
+      {
+        "word": "photo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "phrase",
+        "frequency_class": "high"
+      },
+      {
+        "word": "physical",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "piano",
+        "frequency_class": "low"
+      },
+      {
+        "word": "picnic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "picture",
+        "frequency_class": "high"
+      },
+      {
+        "word": "piece",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pig",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pigeon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pill",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pilot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pink",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pioneer",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pipe",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pistol",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pitch",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pizza",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "place",
+        "frequency_class": "high"
+      },
+      {
+        "word": "planet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "plastic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "plate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "play",
+        "frequency_class": "high"
+      },
+      {
+        "word": "please",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pledge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pluck",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "plug",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "plunge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "poem",
+        "frequency_class": "low"
+      },
+      {
+        "word": "poet",
+        "frequency_class": "low"
+      },
+      {
+        "word": "point",
+        "frequency_class": "high"
+      },
+      {
+        "word": "polar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pole",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "police",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pond",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pony",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pool",
+        "frequency_class": "high"
+      },
+      {
+        "word": "popular",
+        "frequency_class": "high"
+      },
+      {
+        "word": "portion",
+        "frequency_class": "high"
+      },
+      {
+        "word": "position",
+        "frequency_class": "high"
+      },
+      {
+        "word": "possible",
+        "frequency_class": "high"
+      },
+      {
+        "word": "post",
+        "frequency_class": "high"
+      },
+      {
+        "word": "potato",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pottery",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "poverty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "powder",
+        "frequency_class": "high"
+      },
+      {
+        "word": "power",
+        "frequency_class": "high"
+      },
+      {
+        "word": "practice",
+        "frequency_class": "high"
+      },
+      {
+        "word": "praise",
+        "frequency_class": "low"
+      },
+      {
+        "word": "predict",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "prefer",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "prepare",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "present",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pretty",
+        "frequency_class": "high"
+      },
+      {
+        "word": "prevent",
+        "frequency_class": "high"
+      },
+      {
+        "word": "price",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pride",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "primary",
+        "frequency_class": "high"
+      },
+      {
+        "word": "print",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "priority",
+        "frequency_class": "high"
+      },
+      {
+        "word": "prison",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "private",
+        "frequency_class": "high"
+      },
+      {
+        "word": "prize",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "problem",
+        "frequency_class": "high"
+      },
+      {
+        "word": "process",
+        "frequency_class": "high"
+      },
+      {
+        "word": "produce",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "profit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "program",
+        "frequency_class": "high"
+      },
+      {
+        "word": "project",
+        "frequency_class": "high"
+      },
+      {
+        "word": "promote",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "proof",
+        "frequency_class": "high"
+      },
+      {
+        "word": "property",
+        "frequency_class": "high"
+      },
+      {
+        "word": "prosper",
+        "frequency_class": "low"
+      },
+      {
+        "word": "protect",
+        "frequency_class": "high"
+      },
+      {
+        "word": "proud",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "provide",
+        "frequency_class": "high"
+      },
+      {
+        "word": "public",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pudding",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pull",
+        "frequency_class": "high"
+      },
+      {
+        "word": "pulp",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pulse",
+        "frequency_class": "low"
+      },
+      {
+        "word": "pumpkin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "punch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pupil",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "puppy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "purchase",
+        "frequency_class": "high"
+      },
+      {
+        "word": "purity",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "purpose",
+        "frequency_class": "high"
+      },
+      {
+        "word": "purse",
+        "frequency_class": "low"
+      },
+      {
+        "word": "push",
+        "frequency_class": "high"
+      },
+      {
+        "word": "put",
+        "frequency_class": "high"
+      },
+      {
+        "word": "puzzle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "pyramid",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "q": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "quality",
+        "frequency_class": "high"
+      },
+      {
+        "word": "quantum",
+        "frequency_class": "high"
+      },
+      {
+        "word": "quarter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "question",
+        "frequency_class": "high"
+      },
+      {
+        "word": "quick",
+        "frequency_class": "high"
+      },
+      {
+        "word": "quit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "quiz",
+        "frequency_class": "low"
+      },
+      {
+        "word": "quote",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "r": {
+    "category": "waste",
+    "words": [
+      {
+        "word": "rabbit",
+        "frequency_class": "high"
+      },
+      {
+        "word": "raccoon",
+        "frequency_class": "low"
+      },
+      {
+        "word": "race",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rack",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "radar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "radio",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rail",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rain",
+        "frequency_class": "low"
+      },
+      {
+        "word": "raise",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rally",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ramp",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ranch",
+        "frequency_class": "low"
+      },
+      {
+        "word": "random",
+        "frequency_class": "high"
+      },
+      {
+        "word": "range",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rapid",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rare",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rate",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rather",
+        "frequency_class": "high"
+      },
+      {
+        "word": "raven",
+        "frequency_class": "low"
+      },
+      {
+        "word": "raw",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "razor",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ready",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "real",
+        "frequency_class": "high"
+      },
+      {
+        "word": "reason",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rebel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rebuild",
+        "frequency_class": "high"
+      },
+      {
+        "word": "recall",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "receive",
+        "frequency_class": "high"
+      },
+      {
+        "word": "recipe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "record",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "recycle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "reduce",
+        "frequency_class": "high"
+      },
+      {
+        "word": "reflect",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "reform",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "refuse",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "region",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "regret",
+        "frequency_class": "high"
+      },
+      {
+        "word": "regular",
+        "frequency_class": "high"
+      },
+      {
+        "word": "reject",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "relax",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "release",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "relief",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rely",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "remain",
+        "frequency_class": "high"
+      },
+      {
+        "word": "remember",
+        "frequency_class": "high"
+      },
+      {
+        "word": "remind",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "remove",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "render",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "renew",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rent",
+        "frequency_class": "high"
+      },
+      {
+        "word": "reopen",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "repair",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "repeat",
+        "frequency_class": "high"
+      },
+      {
+        "word": "replace",
+        "frequency_class": "high"
+      },
+      {
+        "word": "report",
+        "frequency_class": "high"
+      },
+      {
+        "word": "require",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rescue",
+        "frequency_class": "low"
+      },
+      {
+        "word": "resemble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "resist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "resource",
+        "frequency_class": "high"
+      },
+      {
+        "word": "response",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "result",
+        "frequency_class": "high"
+      },
+      {
+        "word": "retire",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "retreat",
+        "frequency_class": "low"
+      },
+      {
+        "word": "return",
+        "frequency_class": "high"
+      },
+      {
+        "word": "reunion",
+        "frequency_class": "low"
+      },
+      {
+        "word": "reveal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "review",
+        "frequency_class": "high"
+      },
+      {
+        "word": "reward",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rhythm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rib",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ribbon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rich",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ride",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ridge",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rifle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "right",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rigid",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ring",
+        "frequency_class": "high"
+      },
+      {
+        "word": "riot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ripple",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "risk",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ritual",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rival",
+        "frequency_class": "low"
+      },
+      {
+        "word": "river",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "road",
+        "frequency_class": "high"
+      },
+      {
+        "word": "roast",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "robot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "robust",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rocket",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "romance",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "roof",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rookie",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "room",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rose",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rotate",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rough",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "round",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "route",
+        "frequency_class": "high"
+      },
+      {
+        "word": "royal",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rubber",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rude",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "rug",
+        "frequency_class": "high"
+      },
+      {
+        "word": "rule",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "run",
+        "frequency_class": "high"
+      },
+      {
+        "word": "runway",
+        "frequency_class": "low"
+      },
+      {
+        "word": "rural",
+        "frequency_class": "low"
+      }
+    ]
+  },
+  "s": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "sad",
+        "frequency_class": "high"
+      },
+      {
+        "word": "saddle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sadness",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "safe",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sail",
+        "frequency_class": "low"
+      },
+      {
+        "word": "salad",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "salmon",
+        "frequency_class": "low"
+      },
+      {
+        "word": "salon",
+        "frequency_class": "low"
+      },
+      {
+        "word": "salt",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "salute",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "same",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sample",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sand",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "satisfy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "satoshi",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sauce",
+        "frequency_class": "low"
+      },
+      {
+        "word": "sausage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "save",
+        "frequency_class": "high"
+      },
+      {
+        "word": "say",
+        "frequency_class": "high"
+      },
+      {
+        "word": "scale",
+        "frequency_class": "high"
+      },
+      {
+        "word": "scan",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scare",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scatter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scene",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scheme",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "school",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "science",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scissors",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scorpion",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scout",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "scrap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "screen",
+        "frequency_class": "high"
+      },
+      {
+        "word": "script",
+        "frequency_class": "high"
+      },
+      {
+        "word": "scrub",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sea",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "search",
+        "frequency_class": "high"
+      },
+      {
+        "word": "season",
+        "frequency_class": "high"
+      },
+      {
+        "word": "seat",
+        "frequency_class": "low"
+      },
+      {
+        "word": "second",
+        "frequency_class": "high"
+      },
+      {
+        "word": "secret",
+        "frequency_class": "high"
+      },
+      {
+        "word": "section",
+        "frequency_class": "high"
+      },
+      {
+        "word": "security",
+        "frequency_class": "high"
+      },
+      {
+        "word": "seed",
+        "frequency_class": "high"
+      },
+      {
+        "word": "seek",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "segment",
+        "frequency_class": "low"
+      },
+      {
+        "word": "select",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sell",
+        "frequency_class": "high"
+      },
+      {
+        "word": "seminar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "senior",
+        "frequency_class": "low"
+      },
+      {
+        "word": "sense",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sentence",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "series",
+        "frequency_class": "high"
+      },
+      {
+        "word": "service",
+        "frequency_class": "high"
+      },
+      {
+        "word": "session",
+        "frequency_class": "high"
+      },
+      {
+        "word": "settle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "setup",
+        "frequency_class": "high"
+      },
+      {
+        "word": "seven",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shadow",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shaft",
+        "frequency_class": "low"
+      },
+      {
+        "word": "shallow",
+        "frequency_class": "low"
+      },
+      {
+        "word": "share",
+        "frequency_class": "high"
+      },
+      {
+        "word": "shed",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shell",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sheriff",
+        "frequency_class": "low"
+      },
+      {
+        "word": "shield",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shift",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shine",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ship",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shiver",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shock",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shoe",
+        "frequency_class": "low"
+      },
+      {
+        "word": "shoot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shop",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "short",
+        "frequency_class": "high"
+      },
+      {
+        "word": "shoulder",
+        "frequency_class": "low"
+      },
+      {
+        "word": "shove",
+        "frequency_class": "low"
+      },
+      {
+        "word": "shrimp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shrug",
+        "frequency_class": "low"
+      },
+      {
+        "word": "shuffle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "shy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sibling",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sick",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "side",
+        "frequency_class": "high"
+      },
+      {
+        "word": "siege",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sight",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sign",
+        "frequency_class": "high"
+      },
+      {
+        "word": "silent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "silk",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "silly",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "silver",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "similar",
+        "frequency_class": "high"
+      },
+      {
+        "word": "simple",
+        "frequency_class": "high"
+      },
+      {
+        "word": "since",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sing",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "siren",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sister",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "situate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "six",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "size",
+        "frequency_class": "high"
+      },
+      {
+        "word": "skate",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sketch",
+        "frequency_class": "low"
+      },
+      {
+        "word": "ski",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "skill",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "skin",
+        "frequency_class": "low"
+      },
+      {
+        "word": "skirt",
+        "frequency_class": "low"
+      },
+      {
+        "word": "skull",
+        "frequency_class": "low"
+      },
+      {
+        "word": "slab",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "slam",
+        "frequency_class": "low"
+      },
+      {
+        "word": "sleep",
+        "frequency_class": "high"
+      },
+      {
+        "word": "slender",
+        "frequency_class": "low"
+      },
+      {
+        "word": "slice",
+        "frequency_class": "low"
+      },
+      {
+        "word": "slide",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "slight",
+        "frequency_class": "high"
+      },
+      {
+        "word": "slim",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "slogan",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "slot",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "slow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "slush",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "small",
+        "frequency_class": "high"
+      },
+      {
+        "word": "smart",
+        "frequency_class": "high"
+      },
+      {
+        "word": "smile",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "smoke",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "smooth",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "snack",
+        "frequency_class": "low"
+      },
+      {
+        "word": "snake",
+        "frequency_class": "low"
+      },
+      {
+        "word": "snap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sniff",
+        "frequency_class": "low"
+      },
+      {
+        "word": "snow",
+        "frequency_class": "low"
+      },
+      {
+        "word": "soap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "soccer",
+        "frequency_class": "low"
+      },
+      {
+        "word": "social",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sock",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "soda",
+        "frequency_class": "low"
+      },
+      {
+        "word": "soft",
+        "frequency_class": "high"
+      },
+      {
+        "word": "solar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "soldier",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "solid",
+        "frequency_class": "high"
+      },
+      {
+        "word": "solution",
+        "frequency_class": "high"
+      },
+      {
+        "word": "solve",
+        "frequency_class": "high"
+      },
+      {
+        "word": "someone",
+        "frequency_class": "high"
+      },
+      {
+        "word": "song",
+        "frequency_class": "high"
+      },
+      {
+        "word": "soon",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sorry",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sort",
+        "frequency_class": "high"
+      },
+      {
+        "word": "soul",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sound",
+        "frequency_class": "high"
+      },
+      {
+        "word": "soup",
+        "frequency_class": "low"
+      },
+      {
+        "word": "source",
+        "frequency_class": "high"
+      },
+      {
+        "word": "south",
+        "frequency_class": "low"
+      },
+      {
+        "word": "space",
+        "frequency_class": "high"
+      },
+      {
+        "word": "spare",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spatial",
+        "frequency_class": "low"
+      },
+      {
+        "word": "spawn",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "speak",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "special",
+        "frequency_class": "high"
+      },
+      {
+        "word": "speed",
+        "frequency_class": "high"
+      },
+      {
+        "word": "spell",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spend",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sphere",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spider",
+        "frequency_class": "low"
+      },
+      {
+        "word": "spike",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spirit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "split",
+        "frequency_class": "high"
+      },
+      {
+        "word": "spoil",
+        "frequency_class": "low"
+      },
+      {
+        "word": "sponsor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spoon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sport",
+        "frequency_class": "low"
+      },
+      {
+        "word": "spot",
+        "frequency_class": "high"
+      },
+      {
+        "word": "spray",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spread",
+        "frequency_class": "high"
+      },
+      {
+        "word": "spring",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "spy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "square",
+        "frequency_class": "low"
+      },
+      {
+        "word": "squeeze",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "squirrel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stable",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stadium",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "staff",
+        "frequency_class": "low"
+      },
+      {
+        "word": "stage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stairs",
+        "frequency_class": "low"
+      },
+      {
+        "word": "stamp",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stand",
+        "frequency_class": "high"
+      },
+      {
+        "word": "start",
+        "frequency_class": "high"
+      },
+      {
+        "word": "state",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stay",
+        "frequency_class": "high"
+      },
+      {
+        "word": "steak",
+        "frequency_class": "low"
+      },
+      {
+        "word": "steel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stem",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "step",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stereo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stick",
+        "frequency_class": "high"
+      },
+      {
+        "word": "still",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sting",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stock",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stomach",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stone",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "stool",
+        "frequency_class": "low"
+      },
+      {
+        "word": "story",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stove",
+        "frequency_class": "low"
+      },
+      {
+        "word": "strategy",
+        "frequency_class": "high"
+      },
+      {
+        "word": "street",
+        "frequency_class": "high"
+      },
+      {
+        "word": "strike",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "strong",
+        "frequency_class": "high"
+      },
+      {
+        "word": "struggle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "student",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stuff",
+        "frequency_class": "high"
+      },
+      {
+        "word": "stumble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "style",
+        "frequency_class": "high"
+      },
+      {
+        "word": "subject",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "submit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "subway",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "success",
+        "frequency_class": "high"
+      },
+      {
+        "word": "such",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sudden",
+        "frequency_class": "high"
+      },
+      {
+        "word": "suffer",
+        "frequency_class": "high"
+      },
+      {
+        "word": "sugar",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "suggest",
+        "frequency_class": "high"
+      },
+      {
+        "word": "suit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "summer",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sun",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sunny",
+        "frequency_class": "low"
+      },
+      {
+        "word": "sunset",
+        "frequency_class": "low"
+      },
+      {
+        "word": "super",
+        "frequency_class": "high"
+      },
+      {
+        "word": "supply",
+        "frequency_class": "high"
+      },
+      {
+        "word": "supreme",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sure",
+        "frequency_class": "high"
+      },
+      {
+        "word": "surface",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "surge",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "surprise",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "surround",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "survey",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "suspect",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sustain",
+        "frequency_class": "low"
+      },
+      {
+        "word": "swallow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "swamp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "swap",
+        "frequency_class": "high"
+      },
+      {
+        "word": "swarm",
+        "frequency_class": "low"
+      },
+      {
+        "word": "swear",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sweet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "swift",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "swim",
+        "frequency_class": "low"
+      },
+      {
+        "word": "swing",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "switch",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "sword",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "symbol",
+        "frequency_class": "low"
+      },
+      {
+        "word": "symptom",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "syrup",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "system",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "t": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "table",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tackle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tag",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tail",
+        "frequency_class": "low"
+      },
+      {
+        "word": "talent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "talk",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tank",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tape",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "target",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "task",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "taste",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tattoo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "taxi",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "teach",
+        "frequency_class": "high"
+      },
+      {
+        "word": "team",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tell",
+        "frequency_class": "high"
+      },
+      {
+        "word": "ten",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tenant",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tennis",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tent",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "term",
+        "frequency_class": "high"
+      },
+      {
+        "word": "test",
+        "frequency_class": "high"
+      },
+      {
+        "word": "text",
+        "frequency_class": "high"
+      },
+      {
+        "word": "thank",
+        "frequency_class": "high"
+      },
+      {
+        "word": "that",
+        "frequency_class": "high"
+      },
+      {
+        "word": "theme",
+        "frequency_class": "low"
+      },
+      {
+        "word": "then",
+        "frequency_class": "high"
+      },
+      {
+        "word": "theory",
+        "frequency_class": "high"
+      },
+      {
+        "word": "there",
+        "frequency_class": "high"
+      },
+      {
+        "word": "they",
+        "frequency_class": "high"
+      },
+      {
+        "word": "thing",
+        "frequency_class": "high"
+      },
+      {
+        "word": "this",
+        "frequency_class": "high"
+      },
+      {
+        "word": "thought",
+        "frequency_class": "high"
+      },
+      {
+        "word": "three",
+        "frequency_class": "high"
+      },
+      {
+        "word": "thrive",
+        "frequency_class": "high"
+      },
+      {
+        "word": "throw",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "thumb",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "thunder",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "ticket",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tide",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tiger",
+        "frequency_class": "low"
+      },
+      {
+        "word": "tilt",
+        "frequency_class": "low"
+      },
+      {
+        "word": "timber",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "time",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tiny",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tired",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tissue",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "title",
+        "frequency_class": "high"
+      },
+      {
+        "word": "toast",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tobacco",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "today",
+        "frequency_class": "high"
+      },
+      {
+        "word": "toddler",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "toe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "together",
+        "frequency_class": "high"
+      },
+      {
+        "word": "toilet",
+        "frequency_class": "low"
+      },
+      {
+        "word": "token",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tomato",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tomorrow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tone",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tongue",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tonight",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tool",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tooth",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "top",
+        "frequency_class": "high"
+      },
+      {
+        "word": "topic",
+        "frequency_class": "high"
+      },
+      {
+        "word": "topple",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "torch",
+        "frequency_class": "low"
+      },
+      {
+        "word": "tornado",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tortoise",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "toss",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "total",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tourist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "toward",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tower",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "town",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "toy",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "track",
+        "frequency_class": "high"
+      },
+      {
+        "word": "trade",
+        "frequency_class": "high"
+      },
+      {
+        "word": "traffic",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tragic",
+        "frequency_class": "low"
+      },
+      {
+        "word": "train",
+        "frequency_class": "high"
+      },
+      {
+        "word": "transfer",
+        "frequency_class": "high"
+      },
+      {
+        "word": "trap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "trash",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "travel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tray",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "treat",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tree",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "trend",
+        "frequency_class": "high"
+      },
+      {
+        "word": "trial",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tribe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "trick",
+        "frequency_class": "high"
+      },
+      {
+        "word": "trigger",
+        "frequency_class": "high"
+      },
+      {
+        "word": "trim",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "trip",
+        "frequency_class": "low"
+      },
+      {
+        "word": "trophy",
+        "frequency_class": "low"
+      },
+      {
+        "word": "trouble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "truck",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "true",
+        "frequency_class": "high"
+      },
+      {
+        "word": "truly",
+        "frequency_class": "high"
+      },
+      {
+        "word": "trumpet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "trust",
+        "frequency_class": "high"
+      },
+      {
+        "word": "truth",
+        "frequency_class": "high"
+      },
+      {
+        "word": "try",
+        "frequency_class": "high"
+      },
+      {
+        "word": "tube",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tuition",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tumble",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tuna",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "tunnel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "turkey",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "turn",
+        "frequency_class": "high"
+      },
+      {
+        "word": "turtle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "twelve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "twenty",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "twice",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "twin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "twist",
+        "frequency_class": "low"
+      },
+      {
+        "word": "two",
+        "frequency_class": "high"
+      },
+      {
+        "word": "type",
+        "frequency_class": "high"
+      },
+      {
+        "word": "typical",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "u": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "ugly",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "umbrella",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unable",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unaware",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "uncle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "uncover",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "under",
+        "frequency_class": "high"
+      },
+      {
+        "word": "undo",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unfair",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unfold",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unhappy",
+        "frequency_class": "low"
+      },
+      {
+        "word": "uniform",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unique",
+        "frequency_class": "high"
+      },
+      {
+        "word": "unit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "universe",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unknown",
+        "frequency_class": "high"
+      },
+      {
+        "word": "unlock",
+        "frequency_class": "high"
+      },
+      {
+        "word": "until",
+        "frequency_class": "high"
+      },
+      {
+        "word": "unusual",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "unveil",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "update",
+        "frequency_class": "high"
+      },
+      {
+        "word": "upgrade",
+        "frequency_class": "high"
+      },
+      {
+        "word": "uphold",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "upon",
+        "frequency_class": "high"
+      },
+      {
+        "word": "upper",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "upset",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "urban",
+        "frequency_class": "low"
+      },
+      {
+        "word": "urge",
+        "frequency_class": "low"
+      },
+      {
+        "word": "usage",
+        "frequency_class": "high"
+      },
+      {
+        "word": "use",
+        "frequency_class": "high"
+      },
+      {
+        "word": "used",
+        "frequency_class": "high"
+      },
+      {
+        "word": "useful",
+        "frequency_class": "high"
+      },
+      {
+        "word": "useless",
+        "frequency_class": "high"
+      },
+      {
+        "word": "usual",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "utility",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "v": {
+    "category": "unimportant",
+    "words": [
+      {
+        "word": "vacant",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "vacuum",
+        "frequency_class": "low"
+      },
+      {
+        "word": "vague",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "valid",
+        "frequency_class": "high"
+      },
+      {
+        "word": "valley",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "valve",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "van",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "vanish",
+        "frequency_class": "low"
+      },
+      {
+        "word": "vapor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "various",
+        "frequency_class": "high"
+      },
+      {
+        "word": "vast",
+        "frequency_class": "high"
+      },
+      {
+        "word": "vault",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "vehicle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "velvet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "vendor",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "venture",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "venue",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "verb",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "verify",
+        "frequency_class": "high"
+      },
+      {
+        "word": "version",
+        "frequency_class": "high"
+      },
+      {
+        "word": "very",
+        "frequency_class": "high"
+      },
+      {
+        "word": "vessel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "veteran",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "viable",
+        "frequency_class": "high"
+      },
+      {
+        "word": "vibrant",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "vicious",
+        "frequency_class": "low"
+      },
+      {
+        "word": "victory",
+        "frequency_class": "low"
+      },
+      {
+        "word": "video",
+        "frequency_class": "high"
+      },
+      {
+        "word": "view",
+        "frequency_class": "high"
+      },
+      {
+        "word": "village",
+        "frequency_class": "low"
+      },
+      {
+        "word": "vintage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "violin",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "virtual",
+        "frequency_class": "high"
+      },
+      {
+        "word": "virus",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "visa",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "visit",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "visual",
+        "frequency_class": "low"
+      },
+      {
+        "word": "vital",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "vivid",
+        "frequency_class": "low"
+      },
+      {
+        "word": "vocal",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "voice",
+        "frequency_class": "low"
+      },
+      {
+        "word": "void",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "volcano",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "volume",
+        "frequency_class": "high"
+      },
+      {
+        "word": "vote",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "voyage",
+        "frequency_class": "medium"
+      }
+    ]
+  },
+  "w": {
+    "category": "waste",
+    "words": [
+      {
+        "word": "wage",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wagon",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wait",
+        "frequency_class": "high"
+      },
+      {
+        "word": "walk",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wall",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "walnut",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "want",
+        "frequency_class": "high"
+      },
+      {
+        "word": "warfare",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "warm",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "warrior",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wash",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wasp",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "waste",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "water",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wave",
+        "frequency_class": "high"
+      },
+      {
+        "word": "way",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wealth",
+        "frequency_class": "high"
+      },
+      {
+        "word": "weapon",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wear",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "weasel",
+        "frequency_class": "low"
+      },
+      {
+        "word": "weather",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "web",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wedding",
+        "frequency_class": "high"
+      },
+      {
+        "word": "weekend",
+        "frequency_class": "high"
+      },
+      {
+        "word": "weird",
+        "frequency_class": "high"
+      },
+      {
+        "word": "welcome",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "west",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wet",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "whale",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "what",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wheat",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wheel",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "when",
+        "frequency_class": "high"
+      },
+      {
+        "word": "where",
+        "frequency_class": "high"
+      },
+      {
+        "word": "whip",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "whisper",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wide",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "width",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wife",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wild",
+        "frequency_class": "high"
+      },
+      {
+        "word": "will",
+        "frequency_class": "high"
+      },
+      {
+        "word": "win",
+        "frequency_class": "high"
+      },
+      {
+        "word": "window",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wine",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wing",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wink",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "winner",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "winter",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wire",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wisdom",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wise",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wish",
+        "frequency_class": "high"
+      },
+      {
+        "word": "witness",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wolf",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "woman",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wonder",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wood",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wool",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "word",
+        "frequency_class": "high"
+      },
+      {
+        "word": "work",
+        "frequency_class": "high"
+      },
+      {
+        "word": "world",
+        "frequency_class": "high"
+      },
+      {
+        "word": "worry",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "worth",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wrap",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wreck",
+        "frequency_class": "low"
+      },
+      {
+        "word": "wrestle",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "wrist",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "write",
+        "frequency_class": "high"
+      },
+      {
+        "word": "wrong",
+        "frequency_class": "high"
+      }
+    ]
+  },
+  "y": {
+    "category": "important",
+    "words": [
+      {
+        "word": "yard",
+        "frequency_class": "low"
+      },
+      {
+        "word": "year",
+        "frequency_class": "high"
+      },
+      {
+        "word": "yellow",
+        "frequency_class": "high"
+      },
+      {
+        "word": "you",
+        "frequency_class": "high"
+      },
+      {
+        "word": "young",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "youth",
+        "frequency_class": "low"
+      }
+    ]
+  },
+  "z": {
+    "category": "waste",
+    "words": [
+      {
+        "word": "zebra",
+        "frequency_class": "low"
+      },
+      {
+        "word": "zero",
+        "frequency_class": "high"
+      },
+      {
+        "word": "zone",
+        "frequency_class": "medium"
+      },
+      {
+        "word": "zoo",
+        "frequency_class": "low"
+      }
+    ]
+  }
+}
